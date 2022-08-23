@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-08-lorem/static/css/main.4ac94dca.css",
+    "main.js": "/react-08-lorem/static/js/main.a68a8e48.js",
+    "index.html": "/react-08-lorem/index.html",
+    "main.4ac94dca.css.map": "/react-08-lorem/static/css/main.4ac94dca.css.map",
+    "main.a68a8e48.js.map": "/react-08-lorem/static/js/main.a68a8e48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ac94dca.css",
+    "static/js/main.a68a8e48.js"
+  ]
+}
